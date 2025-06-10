@@ -1,6 +1,7 @@
 dataset.zip
 dataset
 CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone
+kidney_classifier_model.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
