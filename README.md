@@ -3,6 +3,8 @@
 A user-friendly **Streamlit** web application that predicts **Chronic Kidney Disease (CKD)** based on patient health metrics using a machine learning model.
 
 ---
+## dataset link
+- https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
 
 ## 🧠 Features
 
